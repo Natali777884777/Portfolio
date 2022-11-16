@@ -17,3 +17,5 @@ Git и GitHub
 JavaScript
 
 React
+
+C:\Users\bekke\Desktop\Фотки.png
