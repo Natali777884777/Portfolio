@@ -4,6 +4,8 @@
 
 ## ОБО МНЕ
 
+![DSC00841](https://user-images.githubusercontent.com/118192286/202314124-7841d5a4-1b2d-42d7-80e9-9c2a918804ee.JPG)
+
 Фронтенд-разработчик из Берлина.
 
 В данный момент учусь в Нетологии. 
@@ -18,4 +20,4 @@ JavaScript
 
 React
 
-C:\Users\bekke\Desktop\Фотки.png
+
